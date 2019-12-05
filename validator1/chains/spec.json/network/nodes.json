@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "url": "enode://992bb9216d87809eecc1da32da47832a2f91135bb61642915f15667942ba849644af245f89db0dc1727413205059a6da58ff5de8e4a3f1b5ca7d5825b814bcad@10.0.99.244:30300",
+      "last_contact": {
+        "success": 1575540960
+      }
+    },
+    {
+      "url": "enode://81d28e917eeba79966750148d95c19d43615fdb3ef60d72d437c77e3917ae4db64091dc6f4009b1e9d22fdb6d99fc064e56c3c17f73545c9100b21822756f3be@10.0.99.244:30301",
+      "last_contact": null
+    }
+  ]
+}
